@@ -1,4 +1,4 @@
-#quick sort hhhhhhhhhheeeeedsds
+#quick sort hhhhhhhhhheeeeed
 
 def parti(a,start,end,rev):
     p=end
